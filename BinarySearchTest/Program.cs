@@ -13,9 +13,7 @@ namespace BinarySearchTest
     {
         static void Main(string[] args)
         {
-            var bank = new Bank<DerivedAccount>();
-            Account acc = bank.Create(1);
-            //TestProduct();
+            TestProduct();
             Console.Read();
         }
 
