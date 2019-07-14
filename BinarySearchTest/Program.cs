@@ -13,8 +13,7 @@ namespace BinarySearchTest
     {
         static void Main(string[] args)
         {
-            // master
-            // dev
+            // local master change
             TestProduct();
             Console.Read();
         }
